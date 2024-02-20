@@ -1,0 +1,14 @@
+Grupa: Michał Burski, Patrycjusz Siwek, Maciej Wysocki
+
+
+Cel: Mapa kebabow
+
+Czas wykonania: 2-3 miesiace
+
+Role w zespole:
+- Bazodanowiec
+- Frontend
+- Projektant UI/UX
+- Osoba od Backend'u
+- Tester
+- Team Leader

@@ -1,0 +1,29 @@
+Grupa: Michał Burski, Patrycjusz Siwek, Maciej Wysocki
+
+
+Wizja - Stworzenie interaktywnej mapy z zaznaczonymi lokalami specjalizującymi sie w sprzedaży kebabów.
+Mozliwość dodawania opinii oraz zdjeć do konretnych lokali. Użytkownik będzie mógł założyć tam swoje konto.
+
+Wartość biznesowa -  Reklamy oraz możliwość wyróżniania swoich restauracji.
+
+Zakres - Stworzenie bazy danych, Frontendu oraz backendu.
+
+Role w projekcie:
+- Sponsor
+- Bazodanowiec
+- Frontend
+- Projektant UI/UX
+- Osoba od Backend'u
+- Tester
+- Team Leader
+
+
+
+KPI:
+- Czas projektu
+- Przestrzeganie harmonogramu
+- Jakość kodu
+- Ocena ile kodu jest pokryte testami
+- Szybkość działania aplikacji
+- Stan użytkowalności przez użytkowników
+- Czas wdrążania
